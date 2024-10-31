@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM ubuntu:22.04
 MAINTAINER Raymond Wen
 
 ENV VERSION 5.3.1
